@@ -1,0 +1,12 @@
+48 -> '0'
+
+EXAMPLES: 
+
+int a = 3;
+char l = a + '0';
+
+cout<<l;
+	   
+char k = '5';
+int o = k - '0';
+cout<<o;
